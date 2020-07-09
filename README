@@ -1,0 +1,7 @@
+WEYL-BRAUER MATRICES IN APL
+
+Weyl-Brauer matrices are higher dimensional versions of Pauli spin matrices.
+They can be built up using the Pauli spin matrices as blocks. The building up
+can be done by making a mega-array of Pauli matrices then collapsing it down
+by taking the outer/Kronecker product along one of its dimensions - perfect
+for APL!
